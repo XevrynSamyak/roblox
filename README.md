@@ -2,13 +2,8 @@
 
 A static site. There is no build step and nothing to install.
 
-## Run it locally
-
-```bash
-python3 -m http.server 4190
+## Run it https://roblox-iota-one.vercel.app/
 ```
-
-Then open (https://roblox-iota-one.vercel.app/). Opening `index.html` straight from the folder also works, but live Roblox data needs a server.
 
 ## Files
 
