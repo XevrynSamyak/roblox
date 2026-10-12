@@ -8,7 +8,7 @@ A static site. There is no build step and nothing to install.
 python3 -m http.server 4190
 ```
 
-Then open http://localhost:4190. Opening `index.html` straight from the folder also works, but live Roblox data needs a server.
+Then open (https://roblox-iota-one.vercel.app/). Opening `index.html` straight from the folder also works, but live Roblox data needs a server.
 
 ## Files
 
